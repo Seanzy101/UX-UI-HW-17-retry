@@ -1,0 +1,14 @@
+.top {
+    background-color: blue;
+
+
+}
+.top img {
+    background-color: yellow;
+
+}
+
+.top li {
+    display: inline-block;
+    
+}
